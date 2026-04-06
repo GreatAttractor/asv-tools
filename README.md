@@ -61,7 +61,7 @@ The CSV text files can be imported into (e.g.) a spreadsheet for plotting.
 
 Open the folder with `asv-tools.exe` in Windows Exporer. Right-click on empty space inside the folder and select "Open in Terminal" from the context menu:
 
-[![screenshot](msw_explorer.png)]
+![screenshot](msw_explorer.png)
 
 This will open a terminal window. The commands from [Examples](#examples) can be typed there and executed by pressing *Enter*.
 
