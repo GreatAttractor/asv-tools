@@ -194,7 +194,7 @@ fn box_blur(
         // (where the exponent 3 = number of iterations)
 
         for i in dest_array.iter_mut() {
-            *i /= divisor; // FIXME super slow!!! WTF?
+            *i /= divisor;
         }
     }
 
