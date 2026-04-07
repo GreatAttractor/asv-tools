@@ -1,6 +1,3 @@
-[submodule "ga_image"]
-	path = ga_image
-	url = ./ext/ga_image
 [submodule "ext/ser-video"]
 	path = ext/ser-video
-	url = /home/filip/Documents/source/ser-video
+	url = https://github.com/GreatAttractor/ser-video.git
